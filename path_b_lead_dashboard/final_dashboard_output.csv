@@ -1,0 +1,8 @@
+Company,Domain,Linkedin,Amount (USD),Round,Investors,Lead Name,Lead Title,Propensity Score,Email,Phone,Location,Work Mode
+Nema,https://nemos.tech,https://linkedin.com/in/john-doe-nema,7500000,Series B,"Sequoia Capital, Vy Capital",Dr. John Doe,Head of Computational Biology,95,john.doe@nema.life,+1-212-555-0101,New York,Onsite
+Iambic,https://iambic.ai,https://linkedin.com/in/jane-smith-iambic,100000000,Funding,"Abingworth, Alexandria Venture",Jane Smith,Director of Generative Chemistry,90,jane@iambic.ai,+1-619-555-0102,San Diego,Onsite
+Gamma,https://gamma.app,https://linkedin.com/in/sarah-jones-gamma,60000000,Series B,Andreessen Horowitz,Dr. Sarah Jones,Chief Scientific Officer,85,sarah@gamma.app,+1-415-555-0104,San Francisco,Onsite
+AirOps,https://airops.com,https://linkedin.com/in/michael-wang-airops,4000000,Series A,Wing Venture Capital,Michael Wang,VP Engineering,75,m.wang@airops.com,+1-305-555-0103,Miami,Onsite
+Genspark,https://genspark.ai,https://linkedin.com/in/emily-white-genspark,27500000,Series B,Lanchi Ventures,Emily White,Lead AI Researcher,70,emily@genspark.ai,+1-650-555-0106,Palo Alto,Onsite
+Norm AI,https://norm.ai,https://linkedin.com/in/david-kim-normai,5000000,Series A,Blackstone,David Kim,Director of Toxicology,65,david@norm.ai,+1-617-555-0107,Boston,Onsite
+CoLab,https://colabsoftware.com,https://linkedin.com/in/robert-lee-colab,72000000,Series C,Insight Partners,Robert Lee,Head of Partnerships,60,r.lee@colabsoftware.com,+1-604-555-0105,Vancouver,Onsite

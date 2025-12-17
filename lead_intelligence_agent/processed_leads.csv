@@ -1,0 +1,21 @@
+Rank,Name,Title,Company,LinkedIn_URL,Person_Location,Company_HQ,Funding_Stage,PubMed_Papers_Count,Scientific_Intent_Score,Probability_Score,Email
+1,Dr. Sarah Chen,Director of Toxicology,Vertex Pharmaceuticals,https://linkedin.com/in/sarahchen,Boston,Boston / Cambridge,IPO,0,0,52,dr..chen@vertexpharmaceuticals.com
+2,Michael Ross,Head of Preclinical Safety,Gilead Sciences,https://linkedin.com/in/mross,San Francisco,Bay Area,IPO,0,0,52,michael.ross@gileadsciences.com
+3,Elena Rodriguez,VP Safety Assessment,Roche,https://linkedin.com/in/erodriguez,Basel,Basel,IPO,0,0,52,elena.rodriguez@roche.com
+4,Dr. Anita Patel,Scientific Director Toxicology,Novartis,https://linkedin.com/in/apatel,Basel,Basel,IPO,0,0,52,dr..patel@novartis.com
+5,Dr. Rachel Green,Senior Scientist Safety Assessment,Moderna,https://linkedin.com/in/rgreen,Cambridge,Boston / Cambridge,IPO,0,0,52,dr..green@moderna.com
+6,Kevin Turner,Associate Director Toxicology,Takeda,https://linkedin.com/in/kturner,Boston,Boston / Cambridge,IPO,0,0,52,kevin.turner@takeda.com
+7,Paul Adams,VP Non-Clinical Safety,Biogen,https://linkedin.com/in/padams,Cambridge,Boston / Cambridge,IPO,0,0,52,paul.adams@biogen.com
+8,Samantha Clark,Director Translational Safety,Eli Lilly,https://linkedin.com/in/sclark,Indianapolis,Other,IPO,0,0,43,samantha.clark@elililly.com
+9,Dr. Lisa Chang,Director Investigative Toxicology,GlaxoSmithKline,https://linkedin.com/in/lchang,Philadelphia,Other,IPO,0,0,43,dr..chang@glaxosmithkline.com
+10,Robert Miller,Director of Safety Pharmacology,Merck,https://linkedin.com/in/rmiller,Philadelphia,Other,IPO,0,0,43,robert.miller@merck.com
+11,Mark Johnson,Head of Toxicology,AbbVie,https://linkedin.com/in/mjohnson,Chicago,Other,IPO,0,0,43,mark.johnson@abbvie.com
+12,Susan Lee,VP Discovery Safety,Bristol Myers Squibb,https://linkedin.com/in/slee,Princeton,Other,IPO,0,0,43,susan.lee@bristolmyerssquibb.com
+13,David Kim,Head of In-Vitro Biology,Genentech,https://linkedin.com/in/dkim,South San Francisco,Bay Area,IPO,0,0,39,david.kim@genentech.com
+14,Dr. Olivia Scott,Head of 3D Models,InVitro Bio,https://linkedin.com/in/oscott,London,UK Golden Triangle,Series A,0,0,39,dr..scott@invitrobio.com
+15,Linda Wu,Principal Scientist In-Vitro,Pfizer,https://linkedin.com/in/lwu,New York,Other,IPO,0,0,30,linda.wu@pfizer.com
+16,Dr. James Thorne,Senior Scientist,AstraZeneca,https://linkedin.com/in/jthorne,Cambridge,UK Golden Triangle,IPO,0,0,26,dr..thorne@astrazeneca.com
+17,Dr. George Hall,VP Preclinical Development,Alnylam,https://linkedin.com/in/ghall,Cambridge,Boston / Cambridge,IPO,0,0,26,dr..hall@alnylam.com
+18,Dr. Thomas Wright,Senior Director DMPK,Sanofi,https://linkedin.com/in/twright,Cambridge,Boston / Cambridge,IPO,0,0,26,dr..wright@sanofi.com
+19,Emily White,Research Scientist II,Amgen,https://linkedin.com/in/ewhite,Thousand Oaks,Other,IPO,0,0,17,emily.white@amgen.com
+20,Daniel Brown,Scientist I,Regeneron,https://linkedin.com/in/dbrown,Tarrytown,Other,IPO,0,0,17,daniel.brown@regeneron.com
